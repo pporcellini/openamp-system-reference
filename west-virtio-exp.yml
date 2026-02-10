@@ -17,8 +17,8 @@ manifest:
 
   projects:
     - name: zephyr
-      repo-path: openamp-zephyr-staging
-      remote: pporcellini
+      repo-path: zephyr
+      remote: danmilea
       revision: virtio-exp-update
       import: true
 
