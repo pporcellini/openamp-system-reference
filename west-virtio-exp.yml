@@ -26,7 +26,7 @@ manifest:
     # our definitions eclipse their's
     - name: libmetal
       remote: openamp
-      revision:
+      revision: main
 
     - name: open-amp
       revision: virtio-exp-update
