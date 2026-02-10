@@ -7,6 +7,8 @@ manifest:
       url-base: https://github.com/OpenAMP
     - name: danmilea
       url-base: https://github.com/danmilea
+    - name: pporcellini
+      url-base: https://github.com/pporcellini
   defaults:
     remote: danmilea
 
@@ -16,7 +18,7 @@ manifest:
   projects:
     - name: zephyr
       repo-path: openamp-zephyr-staging
-      remote: danmilea
+      remote: pporcellini
       revision: virtio-exp-update
       import: true
 
