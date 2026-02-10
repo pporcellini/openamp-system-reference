@@ -36,4 +36,4 @@ manifest:
     # as a single zephyr module
     - name: openamp-zephyr-modules
       remote: openamp
-      revision: main
+      revision: v2023.10.0
